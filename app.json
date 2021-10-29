@@ -1,15 +1,15 @@
 {
-    "name": "Queen Amdi 3.0.2v",
+    "name": "sky7",
     "description": "Queen Amdi is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/m8vMtH9/LOGO.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "Queen Amdi"],
-    "repository": "https://github.com/eshansky7/sky7bot",
-    "website":   " ",
-    "success_url": " ",
+    "repository": "",
+    "website":   "",
+    "success_url": "",
     "stack": "container",
     "env": {
         "AMDI_SESSION": {
-            "description": "Paste your QR session that you got from .",
+            "description": "Paste your QR session that you got from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code.",
             "required": true
         },
         "SUDO": {
@@ -62,7 +62,7 @@
         "CAP": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "sky7₁"
+            "value": "sky7"
         },
         "IMGBB": {
             "description": "Paste your imgbb API to change ALIVE,Welcome,Bye pictures by a command. (Visit https://imgbb.com/ and signup there. And get an API key from https://api.imgbb.com/)",
@@ -132,7 +132,7 @@
         "PANEL_EMOJI": {
             "description": "You can change panel emojis. (Make sure to split emojis with / )",
             "required": true,
-            "value": ❤/😎"
+            "value": "📘/📖"
         },
         "DEBUG": {
             "description": "If you do not know this. Give it up.",
@@ -142,7 +142,7 @@
         "MENU": {
             "description": "Customizeable commands list request command. Keep panel if you don't want to change.",
             "required": true,
-            "value": "menu"
+            "value": "panel"
         },
         "REMOVE_BG_API_KEY": {
             "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space.",
