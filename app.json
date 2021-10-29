@@ -1,15 +1,15 @@
 {
     "name": "Queen Amdi 3.0.2v",
     "description": "Queen Amdi is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.ibb.co/r3wmpwr/LOGO.jpg",
+    "logo": "https://i.ibb.co/m8vMtH9/LOGO.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "Queen Amdi"],
-    "repository": "",
-    "website":   "https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD",
-    "success_url": "https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD",
+    "repository": "https://github.com/eshansky7/sky7bot",
+    "website":   " ",
+    "success_url": " ",
     "stack": "container",
     "env": {
         "AMDI_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code.",
+            "description": "Paste your QR session that you got from .",
             "required": true
         },
         "SUDO": {
