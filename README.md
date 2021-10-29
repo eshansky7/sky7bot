@@ -1,127 +1,173 @@
-<div align="center">
-  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
-  <h1>👸💎 QUEEN AMDI BOT 💎👸</h1>
-</div>
-<p align="center">
-    Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
-    <br>
-        <a href="https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD">Whatsapp Group</a> |
-        <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">Youtube Channel</a>
-    <br>
+#### © Select your language
+  [![English](https://img.shields.io/badge/Select-Sinhala-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
+  [![Sinhala](https://img.shields.io/badge/Select-English-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
+
+![logo](https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg)
+<h1 align="center"><b> 🧚𝘼𝙈𝘼𝙕𝙊𝙉𝙀 𝘼𝙇𝙀𝙓𝘼 (ᴠɪᴘ)  </b></h1>
+
+
 </p>
 
-----
-<div align="center">
-	<h1>Visit our official website to install the Whatsapp Bot :</h1>
-	<a href="https://www.amdaniwasa.com">
-<img src="https://images.squarespace-cdn.com/content/v1/580515742e69cfedd1fbef58/1525386767826-Z6T2PAXQD6PZJFNGY14U/ke17ZwdGBToddI8pDm48kGzbt7cz3CKX9Rsta-RdWeJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXPcCdCfJzTjuw7eD5qoJaUvNnrlJ7-JqE3xnP9OqaaXMr3zNNd3H5Lklmgn1mB80/getbutton.png" width="400"></br></a>
-</div>
-
 <p align="center">
-  <a href="https://github.com/BlackAmda/QueenAmdi"><img alt="GitHub Clones" src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Docker pulls&query=count&url=https://github.com/agentnox/adadafafafaf/blob/main/automated_repo.json?raw=True&logo=github"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amazone+Alexa&font=Fira%20Code&center=true&width=380&height=50">
+</p>
+</a>
+Project of  🧚Amazone - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
+
+<a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
+        <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
   
+`<Enjoy & stay safe stay home>`
+</p>
+
+</a>
+<p align="center">
+  <a href="https://github.com/xneon2/Hashzi-X">
+    <img src="https://img.shields.io/docker/pulls/xneon2/Hashzi-X?style=flat-square"/></a>
   </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square&logo=github&label=Image Size">
+  <a href="https://github.com/xneon2/Hashzi-X">
+    <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square">
     
   </a>
+
 </p>
 
 <p align="center">
-
-  <a href="https://github.com/BlackAmda/QueenAmdi">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackAmda%2FQueenAmdi&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  <a href="https://github.com/xneon2/Hashzi-X">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxneon2%2FHashzi-X&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi/fork">
-    <img src="https://img.shields.io/github/forks/BlackAmda/QueenAmdi?label=Fork&style=social">
+  <a href="https://github.com/xneon2/Hashzi-X/fork">
+    <img src="https://img.shields.io/github/forks/xneon2/Hashzi-X?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi/stargazers">
-    <img src="https://img.shields.io/github/stars/BlackAmda/QueenAmdi?style=social">
+  <a href="https://github.com/xneon2/Hashzi-X/stargazers">
+    <img src="https://img.shields.io/github/stars/xneon2/Hashzi-X?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/github/repo-size/BlackAmda/QueenAmdi?color=purple&label=Repo%20Size&style=plastic">
+  <a href="httsp://github.com/xneon2/Hashzi-X">
+    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Boyutu&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/github/license/BlackAmda/QueenAmdi?color=purple&label=License&style=plastic">
+  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/github/languages/top/BlackAmda/QueenAmdi?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+    <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic">
+  <a href="https://github.com/phaticusthiccy">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Neotro%20X&color=purple&style=plastic">
 
   </a>
-  </p>
- <p align="center">
-  <a href="https://wa.me/94757405652">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20Amdi%20Bot-purple&style=plastic">
+  <a href="https://wa.me/94786598862">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Teenuh%20AX%20-purple&style=plastic">
 
   </a>
 </p>
 
+## 💡Setup 
+
+### Simple method 
+
+#### You can easily get the QR code Repl.it .. Click the button below
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/NeotroWA-XQR?v=1)
+
+`You need 2 mobile phones to build the Neotro-x  bot!
+You will run the bot from the second device.
+You will only generate a QR code with the first device.
+From the first device you need to install Neotro-x  Bot.`
+
+#### After getting the QR code, click the button below to apply the bot...
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/AMAZON-BETA)
+
+
+> [Sinhala Youtube Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
+
+> [![Sinhala Youtube Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
+
+# 🚀Amazone Alexa
+🦹‍♀️Here is the Amazone  bot features
+
+<a href="https://gist.github.com/xneon2/ff9aa739e8c1399d05c79db1dab9ee4c">
+    <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
+  
+  </a>
+
+🦹‍♀️Here is the Alexa  Command list
+
+<a href="https://gist.github.com/xneon2/86f619bc49691abb73546819754e1b94">
+    <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
+
+  </a>
+
+## F.A.Q
+Answer a few frequently asked questions;
+### Can you read my messages???
+Since this project is open source, all codes are clear. Not more or less; You can see what you want. **Your accounts are not accessible.**
+
+### 🔒What about our security?
+If you are concerned about security, you can install it on your own computer. If you think someone else has taken over your data, **Whatsapp> Three Dots> Whatsapp Web> Logout**.
+
+### 💰Do these bots have to pay??
+**Of course not.** It never happens. But you can donate to us. You can reach me via [Whatsapp](https://wa.me/94766598862) 
+
+### 🔄 Can I Edit this bot?
+
+**As per the license, You Can** But We Will Not Support. 🙃
+
+### ❔ How many features/commands are there in this bot?
+
+There are **100+** Features/Commands Are there in **this bot!**
+
+### ⚠️ Warning! 
 ```
-Queen Amdi bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
-The user is responsible for all possible consequences of misuse.
-This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
-Additionally, it enables plug-in support for users.
-Install their own plugins to the original software and use as they please.
-Usage is entirely the responsibility of the user. The operating system is not responsible.
-HAVE A FUN!
+Due to Userbot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, alexa  executives do not accept responsibility.
+By establishing the alexa, you are deemed to have accepted these responsibilities.
 ```
 
-## Visit our official website to install the Whatsapp Bot :
-QR Code generator and full instructions available there.
-<div>
-	<a href="https://www.amdaniwasa.com">
-<img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
-</div>
+## 👨‍💻Developer
 
-## Queen Amdi Team
+[![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
-<table>
-										<tbody>
-											<tr>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/AMDA.jpg" width="100" height="100" alt="Black Amda"></a></td>
-												<td><a href="https://www.instagram.com/sinhalaya_official_/"><img src="https://amdaniwasa.com/images/SASMITHA.jpg" width="100" height="100" alt="sᴀsᴍɪᴛʜᴀ"></a></td>
-												<td><a href="https://www.instagram.com/saji_x.x_4/"><img src="https://amdaniwasa.com/images/SAJI.jpg" width="100" height="100" alt="ʟɪʟ ʟᴜᴢɪ"></a></td>
-												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ"><img src="https://amdaniwasa.com/images/JOKA TAMAH.jpg" width="100" height="100" alt="ᴊᴏᴋᴀ ᴛᴀᴍᴀ"></a></td>
-												<td><a href="https://dinaaofficial.github.io/dina-official/"><img src="https://amdaniwasa.com/images/DINA.jpg" width="100" height="100" alt="ᴍʀ.ᴅɪɴᴀ"></a></td>
-											</tr>
-											<tr>
-												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">ʙʟᴀᴄᴋ ᴀᴍᴅᴀ</a></br>(Founder)</td>
-												<td><a href="https://www.instagram.com/sinhalaya_official_/">sᴀsᴍɪᴛʜᴀ</a></br>(Co-Admin)</td>
-												<td><a href="https://www.instagram.com/saji_x.x_4/">ʟɪʟ ʟᴜᴢɪ</a></br>(Public Supportive)</td>
-												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">ᴊᴏᴋᴀ ᴛᴀᴍᴀʜ</a></br>(Web developer)</td>
-												<td><a href="https://www.instagram.com/dinaa__official_/">ᴍʀ.ᴅɪɴᴀ</a></br>(Graphic Designer)</td>
-										</tbody>
-									</table>
-                  <table>
-										<tbody>
-											<tr>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/KAPAYA.jpg" width="100" height="100" alt="ᴋᴀᴘᴀʏᴀ"></a></td>
-												<td><a href="https://www.thinknfree.com/"><img src="https://amdaniwasa.com/images/ZEUS.jpg" width="100" height="100" alt="ᴢᴇᴜs"></a></td>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/ZEYREX.jpg" width="100" height="100" alt="ZEYREX"></a></td>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/SAIKO.jpg" width="100" height="100" alt="sɪɢᴇᴅᴇʀɪᴇɴ"></a></td>
-											</tr>
-											<tr>
-												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">ᴋᴀᴘᴀʏᴀ</a></br>(Group Management)</td>
-												<td><a href="https://www.thinknfree.com/">ᴢᴇᴜs</a></br>(Group Management)</td>
-												<td><a href="httsp://github.com/BlackAmda/">ᴢᴇʏʀᴇX</a></br>(Ideas)</td>
-												<td><a href="httsp://github.com/BlackAmda/">sɪɢᴇᴅᴇʀɪᴇɴ</a></br>(Member)</td>
-										</tbody>
-									</table>
+( Chethana_Bro(Teenuh-X😈)
+<a href="https://Wa.me/+94766598862">
+    <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
+  
+  </a>
 
-### License
-This project is protected by the `GNU General Public License v3.0.`
-Do not edit copyright messages!
+<a href="https://Wa.me/+14382551507">
+    <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
+  
+  </a>
 
-### Disclaimer
-`WhatsApp` name, its variations and logo are registered trademarks on Facebook. We have nothing to do with the registered trademark.
+<a href="https://Wa.me/+17722181933">
+    <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
+  
+  </a>
+
+<a href="https://Wa.me/+17723534981">
+    <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
+  
+  </a>
+
+[![Telegram](https://img.shields.io/badge/FindOn-Telegram-green.svg)](https://t.me/@tharun_003)
+[![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](https://instergram.com/tharun_003)
+[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94766598862)
+
+
+### 🚀Amazone Alexa Team
+
+[![Find On Telegram ](https://img.shields.io/badge/Ramilka-Rodrigo-blue.svg)](https://t.me/ramiya_yt) [![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/+94725549179) [![Find On Whatsapp ](https://img.shields.io/badge/Chamee-blue.svg)](https://Wa.me/)
+[![Find On Whatsapp ](https://img.shields.io/badge/Hazel-Safron-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Rashid-Riyaz-blue.svg)](https://Wa.me/+17723534981) [![Find On Whatsapp ](https://img.shields.io/badge/mr.freez-blue.svg)](https://Wa.me/)
+[![Find On Whatsapp ](https://img.shields.io/badge/Lithira-Ranahansika-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Lucifer-blue.svg)](https://Wa.me/)
+[![Find On Whatsapp ](https://img.shields.io/badge/Akash-thevidu-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Josh-Mardown-blue.svg)](https://Wa.me/)
+
+## 👽Thanks To
+[![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
+[Yusuf Usta](https://t.me/fusufs)
